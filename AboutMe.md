@@ -25,7 +25,7 @@ lead deep dive workshops,among other things.
 
 ```
 ● Technical Architecture and Design           ● Leadership                   ● Strategic Thinking
-● Business Process Improvements               ● Agile/Scrum Practice          ● Problem Solving
+● Business Process Improvements               ● Agile/Scrum Practice         ● Problem Solving
 ● Stakeholder Management                      ● Resource and Budgeting       ● Continuous Learning
 ```
 # WorkHistory
