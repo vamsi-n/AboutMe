@@ -24,9 +24,9 @@ lead deep dive workshops,among other things.
 ## Skills
 
 ```
-●Technical Architecture and Design           ●Leadership                        ●Strategic Thinking
-●BusinessProcessImprovements                 ●Agile/ScrumPractice          ●Problem Solving
-●Stakeholder Management                        ●Resource and Budgeting     ●ContinuousLearning
+● Technical Architecture and Design           ● Leadership                   ● Strategic Thinking
+● Business Process Improvements               ● Agile/Scrum Practice          ● Problem Solving
+● Stakeholder Management                      ● Resource and Budgeting       ● Continuous Learning
 ```
 # WorkHistory
 
