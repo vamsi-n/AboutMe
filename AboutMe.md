@@ -35,19 +35,17 @@ Mar 2021 - Current
 
 ```
 ● Swoop is a next-gen platform,acquired as a startup, for providing roadside assistance to Insurance
-and OEM clients by matching Service Providers to customer requests
+  and OEM clients by matching Service Providers to customer requests
 ● Increased promoter scores ( **NPS** ) by 8–12% per client and reduced agent intervention by 15% ( **Effort
-per Job** )
+  per Job** )
 ● Client API integrations with iOS, Android, and Alexa-enabled devices
-● Profile Search by Policy/VIN and Claim Creation API integrations to locate Coverage and create
-claims into client end points for Job intake
+● Profile Search and Claim Creation API integrations to locate coverage and create claims into client systems for Job intake
 ● Successfully delivered a number of clients with GraphQL API integrations to their mobile apps
 ● From kickoff, lead to advise on CX design, security, and Backend architectures, drive schedules, and
-guide through implementation
-● Independently research and resolve unique client blockers using data analytics to make informed
-decisions
+  guide through implementation
+● Independently research and resolve unique client blockers using data analytics to make informed decisions
 ● Serve as a technical liaison for cross-functional teams, supporting Engineering, QA, Management, Client
-Success, Marketing,  Training, and Documentation teams
+  Success, Marketing,  Training, and Documentation teams
 ● Communicate project plans, timelines, deliverables, and progress to stakeholders and leadership
 ● Provide technical guidance and support to client development teams
 ```
@@ -57,12 +55,14 @@ Oct 2017 - Feb 2021
 ### Sr.Tech Project Manager / Development Manager           Agero,Boston,MA
 
 ```
-● Lead cross-functional teams in translating requirements for AWS Serverless cloud-based machine learning-centric logistics telematics platform for web and mobile applications for Roadside Assistance 
-● Provide solutions to team with architecture and design artifacts like sequence diagrams, flow charts, interface contracts and more, from concepts to POCs to delivery
+● Lead cross-functional teams in translating requirements for AWS Serverless cloud-based machine learning-centric
+  logistics telematics platform for web and mobile applications for Roadside Assistance 
+● Provide solutions to team with architecture and design artifacts like sequence diagrams, flow charts, interface
+  contracts and more, from concepts to POCs to delivery
 ● Delivered on time multiple projects (7) with microservices and backend APIs for native IOS/Android and ReactJS-based web apps and CI/CD/QA Automation
 ● Managed 23 direct reports working in Engineering development projects
-● Manage overall software development lifecycle in Agile/Scrum, release/cutover, user adoption, documentation, training, and reporting requirements
-● Managed reports and dashboard development with the Data Science team using Sigma Computing for SnowFlake
+● Managed overall software development lifecycle in Agile/Scrum, release/cutover, user adoption, documentation, training, and reporting requirements
+● Managed reports and dashboard development with the Data Science team
 ● Standardize processes with Jira and Slack
 
 ```
@@ -74,7 +74,8 @@ Jan 2016 - Sep 2017
 ● Hands-on Software Development Manager, responsibilities include giving technical direction and leadership to agile team managing SaaS applications
 ● Increased Productivity and reduced cycle times for several business processes with touch-less systems.
 ● Converted from Waterfall to Agile/Scrum practice with cross-functional teams
-● Using vision for digital transformation, managed and completed number of projects using various technologies and realized several performance efficiencies by reviewing each process and building efficiencies for Order-to-Cash cycle (O2C)
+● Using vision for digital transformation, managed and completed number of projects using various technologies and realized several
+  performance efficiencies by reviewing each process and building efficiencies for Order-to-Cash cycle (O2C)
 ● Hands-on participation in development and problem-solving with team on ground level to guarantee prompt delivery
 ● Rebuilt team by adding 11 direct reports to help with new initiatives
 
