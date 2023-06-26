@@ -12,14 +12,13 @@ Phone:  (978)944-2460 E-mail:  vamsin@gmail.com
 ## Summary
 
 ```
-● Agile technical project manager withover 10 years o fexperience delivering scalable web,mobile,and cloud
+● Agile technical project manager withover 10 years of experience delivering scalable web, mobile, and cloud
 applications successfully, architecting from product definition to production in line with roadmaps
-● 10+ years of management, development team creation, coaching, and performance reviews with onshore and
-off shoreteams
+● 10+ years of management, team creation, coaching, and employee development with onshore/offshore models
 ● Over 15 years of experience in various positions in engineering
 ● Effectively engage with stakeholders and SMEs to identify and drive product requirements, establish roadmaps, and
-lead deep dive workshops,among other things.
-● Experienced in establishing and maintaining positive relationships with clients and other stakeholders.
+lead deep dive workshops, among other things
+● Experienced in establishing and maintaining positive relationships with clients and stakeholders
 ```
 ## Skills
 
@@ -30,7 +29,7 @@ lead deep dive workshops,among other things.
 ```
 # WorkHistory
 
-Mar2021 - Current
+Mar 2021 - Current
 
 ### Sr Technical Project Manager Agero, Boston, MA
 
@@ -47,9 +46,9 @@ claims into client end points for Job intake
 guide through implementation
 ● Independently research and resolve unique client blockers using data analytics to make informed
 decisions
-● Serve  as technical liaison for cross-functional teams, supporting Engineering, Management, Client
-Success, Marketing, QA, Training, and Documentation teams
-● Communicate project plans, timelines, deliverables, and progress to stake holders and leadership
+● Serve as a technical liaison for cross-functional teams, supporting Engineering, QA, Management, Client
+Success, Marketing,  Training, and Documentation teams
+● Communicate project plans, timelines, deliverables, and progress to stakeholders and leadership
 ● Provide technical guidance and support to client development teams
 ```
 
@@ -88,11 +87,10 @@ Jan 2009 - Dec 2015
 ● Founder/owner of a custom software development company that uses a fixed bid model for projects, writes functional specs and proposals, then develops and delivers the solutions with an offshore team
 ● Built offshore firm, staffed it with 25+ direct and indirect reports 
 ● Delivered projects using native iOS/Android, web applications, and IOT devices from POCs to production
+● Successfully conducted several deep dives for solving business problems with the client's stakeholders and users in a workshop setting for efficient outcomes
 Led technical initiatives for design and development of subsystems on artifacts such as database design, process workflows, APIs, sequence diagrams, and UX using Invision
 ● Recruited and developed employees through mentorship for coding and test-driven development, effective performance evaluations, and creation of performance and development goals
 ● Initiated multiple microservices in AWS with SQS, DynamoDB and SNS
-● Successfully worked with client stakeholders and users in a workshop environment and conducted deep dives for understanding business problem solving collaboratively.
-
 ```
 
 ## Expertise
